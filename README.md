@@ -5,7 +5,7 @@
 
 - generated a flat file or random log information in the following format
 ```
-\[source IP address] [yyyymmddHHMMss] GET http://[random uuid]/[random uuid]/[random uuid]/[random uuid] 0 TCP_MISS/200 - [target IP address] - 0
+[source IP address] [yyyymmddHHMMss] GET http://[random uuid]/[random uuid]/[random uuid]/[random uuid] 0 TCP_MISS/200 - [target IP address] - 0
 ```
 - random IP addresses are generated for source IP and destination IP address
 - timestamp is derived from current time
